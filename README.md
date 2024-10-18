@@ -1,1 +1,1 @@
-# arezmiAcademy1430
+Arezmi Akademi 14Ekim-30kasım 
