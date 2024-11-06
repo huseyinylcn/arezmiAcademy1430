@@ -200,3 +200,196 @@
 
 # https://www.w3schools.com/python/default.asp
 
+
+
+
+
+
+
+
+
+# sayi = "12.4"
+
+# print(sayi)
+
+# sayi = float(sayi)
+
+# print(sayi)
+
+
+
+
+# gelenveri = input("Lütfen sayı girin : ")
+
+# gelenveri = int(gelenveri)
+
+# gelenveri = gelenveri**2
+
+# print("alınan verinin karesi  ", gelenveri)
+
+
+
+
+
+# sayi1 = input("toplamak istediğiniz 1. sayıyı girin: ")
+# sayi1 = int(sayi1)
+
+# sayi2 = input("toplamak istediğiniz 2. sayıyı girin: ")
+# sayi2 = int(sayi2)
+
+# print("sonuc", sayi1 + sayi2 )
+
+
+
+# True
+# False
+
+# x = False
+# print(type(x))
+
+
+
+
+# == 
+
+
+
+# print(2 == 3)
+# print( 5 > 3)
+# print(2 < 4)
+# print(2 >= 2)
+# print(3 <= 4)
+# print(2 != 3)
+# sonuc = 3 > 5
+# print(type(sonuc))
+
+
+
+
+# name = "merhaba konya"
+
+# print(name.upper())
+# print(name.lower())
+# print(name.title())
+# print(name.replace("a","A"))
+# print(name.strip())
+# print(name.isdigit())
+
+
+
+# print(name[8])
+
+
+# print(len(name))
+# print(name[-2])
+# print(name[3 : 5])
+
+
+
+# password = "123"
+# girilensifre = input("şifrenizi giriniz : ")
+
+
+# if password == girilensifre :
+#     print("sisteme hoşgeldiniz ")
+#     print("ne yapmak istiyorsunuz ? ")
+# else:
+#     print("sisteme giremediiz")
+#     print("şifrenizimi unuttunuz")
+
+
+
+
+
+
+# if True:
+#     print("merhaba")
+#     print("hoşgelgin")
+# else:
+#     print("else çalıştı")
+#     print("tamam")
+
+
+
+
+
+
+# sayi = input("lütfen sayı girin : ")
+
+
+
+# if sayi.isdigit() :
+#     print("tüm karakterler rakam doğru girdiniz")
+#     sayi = int(sayi)
+#     print(sayi**2)
+# else:
+#     print("sadece sayı girmelisiniz")
+
+
+
+# password = "123"
+# username = 'hsyn'
+
+
+# inputusername = input("kullanıcı adınızı giriniz : ")
+
+# if username == inputusername:
+
+#     inputpassword = input("lütfen şifrenizi giriniz : ")
+#     if password == inputpassword:
+#         print("şifrenizde doğru sisteme hoşgeldiniz")
+#     else:
+#         print("kullanıcı adınız doğru ama şifreniz yanlış")
+
+# else:
+#     print("kullanıcı adınız doğru değil")
+
+
+
+
+
+# meyve = ["elma","armut","çilek",12,34,1.5,True]
+
+# meyve.append("karpuz")
+# meyve.insert(2,"karpuz")
+# meyve.remove(12)
+# meyve.pop(2)
+# del meyve[1]
+# meyve.clear()
+# meyve2 = meyve.copy()
+# print(meyve)
+# print(type(meyve))
+
+
+
+# meyve = ("elma","armut","karpuz")
+# print(type(meyve))
+# meyve = list(meyve)
+# print(type(meyve))
+# meyve.append("kiraz")
+# meyve.remove("karpuz")
+# print(meyve)
+# meyve = tuple(meyve)
+# print(type(meyve))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
