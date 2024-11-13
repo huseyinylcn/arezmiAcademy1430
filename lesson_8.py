@@ -177,20 +177,20 @@
 
 
 
-ciftsayilar = []
-teksayilar = []
+# ciftsayilar = []
+# teksayilar = []
 
 
-for x in range(30):
-    if x % 2 == 0:
-        # print("bu sayı çiftir",x)
-        ciftsayilar.append(x)
-    elif x % 2 == 1:
-        # print("bu sayı tektir",x)
-        teksayilar.append(x)
+# for x in range(30):
+#     if x % 2 == 0:
+#         # print("bu sayı çiftir",x)
+#         ciftsayilar.append(x)
+#     elif x % 2 == 1:
+#         # print("bu sayı tektir",x)
+#         teksayilar.append(x)
 
-print(ciftsayilar)
-print(teksayilar)
+# print(ciftsayilar)
+# print(teksayilar)
 
 
 
