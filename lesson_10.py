@@ -171,8 +171,6 @@
 
 
 
-
-
 # def func7(x):
 #     def karealma():
 #         return x **2
@@ -187,10 +185,16 @@
 # def yazma (metin):
 #     def terminaleyaz():
 #         print(metin)
+        
 #     return terminaleyaz
 
 # result = yazma("merhaba dünya")
+# result()
 
-# print(result)
+
+
+
+
+
 
 
