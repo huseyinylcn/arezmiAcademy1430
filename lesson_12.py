@@ -1,7 +1,3 @@
-
-
-
-
 # class Canavar:
 #     def ozellikler(self,name):
 #         self.name = name
@@ -73,18 +69,6 @@
 # u2.elkaldır()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 # class BankaHesabı:
 
 #     def __init__(self,name):
@@ -122,22 +106,20 @@
 
 
 
+# class Hayvan:
+#     def __init__(self,name) :
+#         self.name = name
+
+#     def ses_cıkar(self,ses):
+#         print(self.name,":", ses)
 
 
-
-class Hayvan:
-    def __init__(self,name) :
-        self.name = name
-
-    def ses_cıkar(self,ses):
-        print(self.name,":", ses)
-
-kedi = Hayvan("yumak")
-kedi.ses_cıkar("miyav")
+# kedi = Hayvan("yumak")
+# kedi.ses_cıkar("miyav")
 
 
-kopek = Hayvan("karabas")
-kopek.ses_cıkar("hav hav")
+# kopek = Hayvan("karabas")
+# kopek.ses_cıkar("hav hav")
 
 
 
