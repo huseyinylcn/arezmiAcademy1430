@@ -26,6 +26,7 @@
 
 # class Users:
 #     kullanicilar = []
+
 #     def __init__(self,name,surname) :
 #         self.name = name
 #         self.surname = surname
@@ -53,7 +54,6 @@
 
 
 # class Users:
-
 #     def __init__(self,name,surname) :
 #         self.name = name
 #         self.surname = surname
@@ -90,22 +90,12 @@
 #     def dbConnect (self):
 #         print("connect")
 #         return "connect"
-    
 
 # class dataWrite(DB):
 #     pass
-    
+
 
 # dataWrite()
-
-
-
-
-
-
-
-
-
 
 
 
@@ -120,8 +110,6 @@
     
 #     def bilgilergoster(self):
 #         return f"kullanıcının adı {self.name} kullanıcın soyadı {self.surname}"
-    
-
 
 
 
@@ -138,33 +126,4 @@
 # dv = Developer("Emre","Şahin",20)
 
 # print(dv.bilgilergoster())
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
