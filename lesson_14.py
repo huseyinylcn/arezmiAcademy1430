@@ -1,8 +1,5 @@
 import tkinter as tk
 
-import time
-
-
 
 class Users:
     kullanicilar = []
@@ -68,8 +65,10 @@ class Metotlar(Content):
 
     def save(self):
         Users(self.name.get(),self.surname.get(),self.age.get())
-
         self.Kullanıcilarisirala()
+        
+        
+
 
 
 
