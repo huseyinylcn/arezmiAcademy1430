@@ -52,11 +52,6 @@ finally:
     print("ne olursa olsun ben çalışırım")
 
 
-
-
-
-
-
-
+    
 
 
